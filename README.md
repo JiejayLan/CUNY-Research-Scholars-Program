@@ -1,13 +1,14 @@
-# Determine Validity of Relationships –Causation and Correlation
-BMCC news: https://www.bmcc.cuny.edu/news/news.jsp?id=13488
+# In A Box With One Sticky Wall: From Ode To Pde
+Paper link: https://www.tandfonline.com/doi/abs/10.1080/10511970.2018.1488788
 
 ## research content
 
-* Minority Science and Engineering Improvement Program: Collected data on major airlines’ stock prices and oil prices from 1986 to 2016. 
-* We used SPSS and R language to build multiple regression models to analyze airlines’ stock prices and oil prices.
-* Our team presented original research at the 2017 Joint Mathematics Meetings (Jan 2017). 
+* Analyzed how tea leaves can be used to remove pollutants from contaminated water. 
+* Used R language to develop mathematical models of the processes involved (e.g. adsorption) and the filter mechanisms we designed. 
+* Original research was presented at the 2017 MAA Math Fest Meetings and was published at Kudos journal by Taylor and Francis. (June 2018).
 
-<img src='image.png' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+## ABSTRACT
+We present noncompetitive adsorption as “particles in a box with one sticky wall.” We start with a general model which can be modeled as a simple ordinary differential equation (ODE). To verify the ODE students run a computer simulation. The ODE’s solution imperfectly fits the simulation’s data. This leads to the diffusion partial differential equation (PDE). We show how to determine the diffusion constant from theory; how to determine how many terms in the Fourier series solution need to be summed; and the use of non-linear regression. As a bonus, the physics of the model will lead us to a series representation of π.
 
 
 
